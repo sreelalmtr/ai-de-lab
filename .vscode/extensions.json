@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-python.python", "ms-python.vscode-pylance", "ms-python.debugpy", "ms-toolsai.jupyter",
+    "charliermarsh.ruff", "ms-azuretools.vscode-docker", "redhat.vscode-yaml",
+    "bierner.markdown-mermaid", "humao.rest-client", "mtxr.sqltools", "eamodio.gitlens"
+  ]
+}
